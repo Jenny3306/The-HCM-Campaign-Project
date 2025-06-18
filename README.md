@@ -1,4 +1,4 @@
-## 📘 Assignment 2 – Programming Fundamentals 
+## 📘 Assignment 2 of Programming Fundamentals - The HCM Campaign Project
 
 This assignment is a large-scale C++ project for the **Programming Fundamentals** course, designed to help students apply core programming concepts in a meaningful and structured way.
 
